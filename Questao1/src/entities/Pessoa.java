@@ -2,7 +2,7 @@ package entities;
 //superclasse
 public abstract class Pessoa {
 	//O modificador de acesso "protected" permite que a superclasse
-	//e a subclasse tenha acesso ao atributo
+	//e a subclasse tenham acesso ao atributo
 	protected String rg;
 	protected String nome;
 	
